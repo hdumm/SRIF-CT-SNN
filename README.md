@@ -1,2 +1,2 @@
 # SRIF-CT-SNN
-This repository provides a high-fidelity reference implementation of the SRIF-CT-SNN architecture, designed for reproducible research and future extensibility.
+This repository provides core code references for the SRIF-CT-SNN architecture, aiming to facilitate reproducible research and future extensibility.
